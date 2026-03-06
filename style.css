@@ -1,7 +1,14 @@
 .main {
     background-color: bisque;
-    
+    display: flex;
+    align-items: end;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    justify-content: space-between;
+    background-color: blueviolet;
 }
+
 .ICONBanniere {
     font-size: 50px;
     color: rgb(46, 42, 42);
@@ -11,4 +18,4 @@
 h1{
     text-align: center;
     
-}
+}   
