@@ -54,16 +54,38 @@
 }
 /* Space pour les Legumes*/
 .Legume{
+    display: flex; row;
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 25px;
 }
 .Poivron{
-border-radius: 25px ;
+    border-radius: 25px ;
+    border: 2px solid ;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    width: 600px;
+    height: 500px;
+    border-radius: 25px;
+    background-color: #ded7d7;
+}
+.prix{
+    text-align: right;
+}
+
+.Champignon {
+    border-radius: 25px ;
     border: 2px solid ;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 500px;
+    width: 600px;
     height: 500px;
     border-radius: 25px;
-    background-color: #c77979;
+    background-color: #ded7d7;
 }
