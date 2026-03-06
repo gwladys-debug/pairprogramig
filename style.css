@@ -3,14 +3,8 @@
     margin: 0px;
     padding: 0px;
 }
-.bg1{
-    background-color: aqua;
-}
-.bg2{
-    background-color: rgb(4, 66, 66);
-}
 .main {
-    background-color: rgb(243, 141, 18);
+    background-color: bisque;
     
     margin: 5px;
 
@@ -29,11 +23,18 @@
     font-size: 22px;
     font-weight: 700;
         
-}   
+}  
 
+/*couleur catégorie*/
+.bg1{
+    background-color: aquamarine(84, 209, 209);
+}
+.bg2{
+    background-color: rgb(4, 66, 66);
+}
 .categoryMain{
 
-    background-color: aquamarine;
+    background-color: rgb(232, 241, 238);
     display: flex;
     align-items: center;
     height: 50px;
