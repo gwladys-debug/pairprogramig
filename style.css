@@ -52,3 +52,18 @@
     padding-right: 10px;
     border-radius: 25px;
 }
+/* Space pour les Legumes*/
+.Legume{
+
+}
+.Poivron{
+border-radius: 25px ;
+    border: 2px solid ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 25px;
+    background-color: #c77979;
+}
