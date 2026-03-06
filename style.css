@@ -1,6 +1,14 @@
+.main {
+    background-color: bisque;
+}
 .ICONBanniere {
     font-size: 50px;
     color: rgb(46, 42, 42);
     margin-left: 20px;
     margin-top: 20px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(219, 13, 13);
+    
 }
